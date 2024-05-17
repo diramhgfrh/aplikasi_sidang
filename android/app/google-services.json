@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313674935324",
+    "project_id": "fireflu-1c14c",
+    "storage_bucket": "fireflu-1c14c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313674935324:android:4dfaeaa5a8ca739004c3d9",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_sidang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgnJspxpqqj08K3sAxxgWFH_MOzOMUmJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
